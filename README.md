@@ -1,5 +1,7 @@
 # Ticket Sales Command Center
 
+![Dashboard Home](images/screenshots/dashboard-home.png)
+
 > A public, documentation-only showcase for a private ticket-sales analytics dashboard that turns event sales exports into decision-ready insights.
 
 ## Product Overview
@@ -43,45 +45,6 @@ Event teams need more than raw ticket counts. They need a repeatable way to answ
 - **CSV ingestion workflow:** Support approved preloaded datasets and a local/admin upload mode for future-year exploration.
 - **Private static delivery model:** Package a sanitized static build for internal hosting without requiring end-user Node.js, a database, or an application server.
 
-## Screenshots
-
-> Replace these placeholders with sanitized screenshots that use mock, redacted, or approved non-sensitive data.
-
-![Dashboard Home](images/screenshots/dashboard-home.png)
-
-Caption: Full dashboard view showing the sticky header, year filter, KPI row, analysis panels, and compact summary table.
-
-![KPI Summary](images/screenshots/kpi-summary.png)
-
-Caption: KPI cards for total tickets, revenue, orders, average ticket price, top segment, top sales channel, and purchase timing metrics.
-
-![Year Filter](images/screenshots/year-filter.png)
-
-Caption: Multi-year selector demonstrating the ability to switch between all-years analysis and individual season views.
-
-![Event Performance](images/screenshots/event-performance.png)
-
-Caption: Ranked show or event performance chart comparing ticket volume and revenue contribution.
-
-![Audience Breakdown](images/screenshots/audience-breakdown.png)
-
-Caption: Ticket category and purchase-location breakdowns for understanding audience composition and channel dependency.
-
-![Purchase Timing](images/screenshots/purchase-timing.png)
-
-Caption: Timing analysis for hourly purchasing, weekday trends, and how far in advance buyers commit.
-
-![Suggestions Panel](images/screenshots/suggestions-panel.png)
-
-Caption: Deterministic recommendation panel that translates sales patterns into operational next steps.
-
-![CSV Upload Workflow](images/screenshots/csv-upload-workflow.png)
-
-Caption: Admin-only CSV upload flow for testing or adding future-year data outside client delivery mode.
-
-![Static Handoff Package](images/screenshots/static-handoff-package.png)
-
-Caption: Sanitized build artifact and internal-hosting handoff flow, shown without private filenames, URLs, or source data.
 
 ## Feature Walkthrough
 
